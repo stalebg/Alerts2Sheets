@@ -1,0 +1,15 @@
+{
+"google_credentials": {
+    "type": "service_account",
+    "project_id": "sitertbot",
+    "private_key_id": "bdc800aab4a2d317dfa543e12db1ba45a3d313f3",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCbMR8GWD+AqjYe\nofnJZccGFN7+oE0Ml8/i0ihPWUc8ypBak7/cpfgpth9ntIBfNbXNxnuLZN5gkhoS\nGdjcLJ9K6wKNbdV2DmZdeJ+mY1XeyaGleZHipsVQXvNdSPrZljdSE8lMAdpi901z\nqaMG79yswbhd4Ikiph+d35VNnUQy3Hovtxy6Me1qfqxCMoPlwgslX3k8AR0Q4pVC\ngFIaWPWpVHecwpdZrD6WTtSfr3K0Sn9wKrs2e4eT+iRhkiMP8TY2Rr91bxy0FJZT\nk5aiGO6Kn0MK8cEBNRU+t0XloBXdTU31o90ZY0qLrrL/ZvMzmNu2tLQG8x2kxRG5\nNH/Tvk8RAgMBAAECggEAPopImOt2R9kQLz8SJO29iz9c8BrUggcp0Rvk/7kYQrDV\nBJN3JanCvLh2pnmwo+3GorLidbXEAgHOvM2qvWvEE9JqOGlzNPyvlup11/0/DSWP\nXVqFBmQzruRcyZKP+KCXEZ4EqHs0sV482agamUCPWxVEQZyrVwnAQwRnrBv88EuV\nqrUTZMEDdOROX0P+yO312M0UfiDMJsBjHM3y5z3OAGrjIJX1V9xvo9NgqPnfV+v7\nlDmt0nwT+1aEACvyP4E/pGytlhDM51lu+m67EWzRyb8rierpIfHGnYwzNuKvLi1M\n/AbAqCDc5kJ+Ed8WBgw11eOI3bedPKSXMlCCGOIuYwKBgQDQKfrxVhJubLXwGid5\n9yMPbax0SzPrlajcZmluHotz/daM+dJidq2kkLOVniXzItB8Dc0OHVRqnh44fk7J\niMv1Hyqo9l8fG9HGy2WxAbipmw+i44mmibN9n/1C5V+Q4ctlAt0r7l6wXNAGy6jl\nJJ5kv9SLdr2rerlFEBTpcZEkowKBgQC+2twrmyMfxGEC4awiDd1Jte+UO19pRQQw\nOAhpcQAMhYekpcmJXmjPIMB3wrc49LdmUx75zZnMK0mcO5ZWjXco3s8a5QfAcvub\nUj/m5Q7FuQNw5i6jJCG8ibf0STfKSONFWEP+QPGQkjhuvAujvj3+L+u9P5dhetq6\nyFkHmaIEuwKBgBTXvzqe5aWM2QK7e6xopGgNETFrvj0edRPsZS4TfN8WUX84HGqj\ne2t42aJnfWFE4R8qupdpNGSghGIfs3/WZKWcg0b7tDaHMI/5GauJgpXo4r3qjoPQ\nUdqIRHGISfNVyGnKyZ52daCvCl1D0xtueTWZR4zXTNJ4rUhO/ekJ6ACFAoGBAKoX\nVVcLeN8r3iV6SDVFU+0IVw8tZtfjqVrr5RtLmPaP3pZvJlDlsdS+5KkXAMGi3vwz\nogyRHrsl7QFu3Yofo43qHHtkmGb8Up5XTBoUE/lE7PsmOXQtlF96AVaWFkGSefHo\nOxiSencUyXRu5JS2zHsH7DmKPfijS+JhAW9TjWBXAoGANZq6GvVpG6zayuL/HnmF\n8+SoDiwQMQ68X67LP1v9Cn1YFoxtRtk/qbyn0qjoOowSeT8GC/t6ME/4+7KNnVZu\nMQmndHagqXHTB9aXHyGD6PlialgOdEgGY8qQrSm/v/5baibni+GdGjt3dNThnZ4q\ncOo9Xui8RIf3jjcMDBfgt0k=\n-----END PRIVATE KEY-----\n",
+    "client_email": "sitertbot@sitertbot.iam.gserviceaccount.com",
+    "client_id": "112378193392516014705",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sitertbot%40sitertbot.iam.gserviceaccount.com"
+    },
+"master_config_url":"https://docs.google.com/spreadsheets/d/1IVMM8eEmpxCkXLH1SmdvB878zm3As-lr3oCKHMXZNkU/edit#gid=0"
+}
