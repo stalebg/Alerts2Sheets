@@ -1,5 +1,6 @@
 # Alerts2Sheets
- Google Alert RSS updates logged in Google Sheets
+![License](https://img.shields.io/badge/License-MIT-green)
+Your Google Alert (as RSS updates) logged in desired Google Sheets
 
 ## Overview 📜
 This script is a parses a list of RSS feeds (designed for Google Alerts) and updates specified Google Sheets documents with the latest information. For simplicity, the script uses a master configuration sheet, where you quickly can specify the feed sources and their corresponding output destinations.
@@ -25,7 +26,7 @@ This script is a parses a list of RSS feeds (designed for Google Alerts) and upd
 | ------------ | ------------ | ------------ |
 |   |   |   |
 
-3. **config.json**: Create a `config.json` file with your Google Service Account credentials and the URL of the Master Configuration Sheet.
+3. **config.json**: Create a `config.json` file with your Google Service Account credentials and the URL of the Master Configuration Sheet. An example of what it looks like below and in the included `config.json`-file.
 
 ```json
 {
@@ -57,6 +58,6 @@ Upon running, the script will automatically:
 
 ## Limitations and Considerations 🚧
 
-- Performance may vary based on the number of feeds and the size of the Google Sheets. For large datasets, additional optimization might be necessary.
-- The script assumes unique URLs across all feeds. If the same URL appears in different feeds, it might be treated as a duplicate.
+- Performance may vary based on the number of feeds and the size of the Google Sheets. For large datasets, consider a more advanced solutions.
+- The script currently assumes unique URLs across all feeds. If the same URL appears in different feeds, it might be treated as a duplicate.
 - Ensure your Google Service Account has the necessary permissions to access and edit all specified Google Sheets.
