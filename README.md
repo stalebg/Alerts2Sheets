@@ -1,7 +1,8 @@
 # Alerts2Sheets
 ![License](https://img.shields.io/badge/License-MIT-green)
+![Heroku](https://img.shields.io/badge/Heroku-purple?logo=heroku&amp;logoColor=white)
 
-Your Google Alert (as RSS updates) logged in desired Google Sheets
+Your Google Alert (as RSS updates) logged in desired Google Sheets. Heroku ready.
 
 ## Overview 📜
 This script is a parses a list of RSS feeds (designed for Google Alerts) and updates specified Google Sheets documents with the latest information. For simplicity, the script uses a master configuration sheet, where you quickly can specify the feed sources and their corresponding output destinations.
@@ -12,6 +13,7 @@ This script is a parses a list of RSS feeds (designed for Google Alerts) and upd
 - **Duplicate Avoidance**: Incorporates a mechanism to prevent duplicate entries.
 - **Dynamic Configuration**: Uses one Google Sheet to manage feed URLs and corresponding output Sheets.
 - **Last Update Tracking**: Updates the master configuration sheet with the timestamp of the last successful data entry, enabling a quick overview of which feeds are being updated.
+- **Heroku Ready**: All files neccesary to run at scheduled intervals via Heroku are included.
 
 ## Setup and Configuration 🛠️
 ### Prerequisites
@@ -49,7 +51,7 @@ This script is a parses a list of RSS feeds (designed for Google Alerts) and upd
 
 ## Use 📘
 
-Run the script using Python. All files nessecary to run on Heroku are included.
+Run the script using Python. All files nessecary to deploy directly on Heroku are included.
 
 Upon running, the script will automatically:
 
