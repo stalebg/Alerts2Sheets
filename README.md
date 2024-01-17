@@ -1,5 +1,6 @@
 # Alerts2Sheets
 ![License](https://img.shields.io/badge/License-MIT-green)
+
 Your Google Alert (as RSS updates) logged in desired Google Sheets
 
 ## Overview 📜
